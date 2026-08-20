@@ -2,7 +2,7 @@
 
 A collection of Java practice programs covering core syntax, object-oriented programming, GUI development with AWT, and basic client-server networking. These are standalone learning exercises rather than one cohesive application — each file can be compiled and run on its own.
 
-## 📂 Files
+## 📂 Files flow
 
 **Core Java & OOP**
 | File | Description |
